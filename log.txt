@@ -1,0 +1,4 @@
+Start!
+Processing...
+Success!
+Запись в файл в библиотеке

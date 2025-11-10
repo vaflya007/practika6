@@ -125,3 +125,7 @@ l-wx------ 1 codespace codespace 64 Nov  6 09:12 6 -> /dev/null
 Четвертая цифра 4 — права для всех остальных:
 
 4 (read) — только чтение
+Часть 6.
+Ответ на вопрос: 1 - ./app > out.txt
+                 2 - ./app 2> err.txt
+                 3 - ./app &> all.txt
